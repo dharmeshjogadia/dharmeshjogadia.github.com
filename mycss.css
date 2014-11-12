@@ -240,13 +240,15 @@ p{
  
 #section1 h1{
 	color: #000;
-	text-shadow: 0px 0px 5px #fff;
+	text-shadow: 2px 2px 3px #fff;
 	text-align:left;
+	margin-left:10px;
 }
 #section1 p{
 	color: #fff;
 	text-shadow: 1px 2px #000;
 	text-align:left;
+	margin-left:10px;
 	--color: rgba(0,0,0,0.3);
 }
 #section1 img{
