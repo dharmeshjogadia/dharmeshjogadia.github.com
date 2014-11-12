@@ -234,13 +234,13 @@ p{
  * --------------------------------------- */
  #section1
  {
-	background-image:url("images/v1.jpg");
+	background-image:url("images/v1.JPG");
 	background-size:cover;
  }
  
 #section1 h1{
 	color: #000;
-	text-shadow: 2px 2px #fff;
+	text-shadow: 0px 0px 5px #fff;
 	text-align:left;
 }
 #section1 p{
